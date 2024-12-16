@@ -9,6 +9,8 @@ Lo importante es adquirir experiencia de trabajo con datos. Realmente no importa
 El dataset contiene una columna "rating" que almacena la clasificación ESRB de cada juego. El Entertainment Software Rating Board (la Junta de clasificación de software de entretenimiento) evalúa el contenido de un juego y asigna una clasificación de edad como Adolescente o Adulto.
 
 Instrucciones para completar el proyecto
+
+
 Paso 1. Abre el archivo de datos y estudia la información general 
 
 Ruta de archivo:
