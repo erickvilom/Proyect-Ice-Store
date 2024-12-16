@@ -15,6 +15,7 @@ Ruta de archivo:
 
 /datasets/games.csv . Descarga el dataset
 
+
 Paso 2. Prepara los datos
 
 Reemplaza los nombres de las columnas (ponlos en minúsculas).
@@ -25,6 +26,8 @@ Explica por qué rellenaste los valores ausentes como lo hiciste o por qué deci
 ¿Por qué crees que los valores están ausentes? Brinda explicaciones posibles.
 Presta atención a la abreviatura TBD: significa "to be determined" (a determinar). Especifica cómo piensas manejar estos casos.
 Calcula las ventas totales (la suma de las ventas en todas las regiones) para cada juego y coloca estos valores en una columna separada.
+
+
 Paso 3. Analiza los datos
 
 Mira cuántos juegos fueron lanzados en diferentes años. ¿Son significativos los datos de cada período?
@@ -36,6 +39,8 @@ Crea un diagrama de caja para las ventas globales de todos los juegos, desglosad
 Mira cómo las reseñas de usuarios y profesionales afectan las ventas de una plataforma popular (tu elección). Crea un gráfico de dispersión y calcula la correlación entre las reseñas y las ventas. Saca conclusiones.
 Teniendo en cuenta tus conclusiones compara las ventas de los mismos juegos en otras plataformas.
 Echa un vistazo a la distribución general de los juegos por género. ¿Qué se puede decir de los géneros más rentables? ¿Puedes generalizar acerca de los géneros con ventas altas y bajas?
+
+
 Paso 4. Crea un perfil de usuario para cada región
 
 Para cada región (NA, UE, JP) determina:
